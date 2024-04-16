@@ -1,0 +1,22 @@
+{
+  "name": "interview-coding-katas",
+  "version": "0.0.0",
+  "description": "A set of katas is used to explore coding and problem solving practices",
+  "type": "module",
+  "scripts": {
+    "lint": "biome check src",
+    "test": "vitest",
+    "test1": "vitest --project fizz-buzz",
+    "test2": "vitest --project count-by-x",
+    "test3": "vitest --project find-the-vowels",
+    "test4": "vitest --project turkish-numbers",
+    "test5": "vitest --project your-order-please"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@biomejs/biome": "^1.7.0",
+    "vitest": "^1.5.0"
+  }
+}
