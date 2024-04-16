@@ -29,7 +29,8 @@
 			"extensions": [
         "streetsidesoftware.code-spell-checker",
         "vitest.explorer",
-        "biomejs.biome"
+        "biomejs.biome",
+				"MS-vsliveshare.vsliveshare"
       ]
 		}
 	},
